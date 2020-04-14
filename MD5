@@ -1,0 +1,15 @@
+68c57047fe9e979a1aeae34f8274f365 *DESCRIPTION
+bb1a9eab349e38666cc71db9e60c0f65 *LICENSE
+43f3e5efb18cb04583b6dc6531d851f0 *NAMESPACE
+253f99131eb011a2637cf7cd9e461c05 *R/get_info.R
+5288b908dde86a10ed49fc7a1856e9ce *R/globals.R
+a105f89e576455bed7bef51df6ecbbc0 *R/refresh.R
+443567bc6b69538564cfc1405aaf2ee6 *R/utils-pipe.R
+052ac40f2da64e4dd5b1f3d501db896a *R/utils.R
+d4ff47708f525cf6934a30b2919e1c07 *README.md
+9f366151887ee038c26db3aaec4b438c *man/assignment_pipe.Rd
+bd27b2470337fe6ba36b4d96dc661868 *man/get_info_covid19france.Rd
+4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
+81714c805e00eef5732c0ec5dedb93c2 *man/refresh_covid19france.Rd
+4e4371cd0b55b0674d2c39bc25e1eb52 *tests/testthat.R
+885e54d79244dfb5eb055765feac4091 *tests/testthat/test-all.R

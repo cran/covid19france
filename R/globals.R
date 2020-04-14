@@ -1,0 +1,34 @@
+
+globalVariables(
+  c(
+    "cas_confirmes",
+    "confirmed",
+    "data_type",
+    "date",
+    "dead",
+    "deces",
+    "depistes",
+    "desc",
+    "discovered",
+    "france_country",
+    "france_regional",
+    "granularite",
+    "gueris",
+    "hospitalises",
+    "hospitalized",
+    "icu",
+    "location_standardized_type",
+    "location_type",
+    "maille_code",
+    "maille_nom",
+    "mutate_if",
+    "reanimation",
+    "recovered",
+    "region_code",
+    "region_name",
+    "region_type",
+    "source_type",
+    "source_url",
+    "value"
+  )
+)
